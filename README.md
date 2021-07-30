@@ -25,4 +25,6 @@
 
 <h2>Why does this exist?</h2>
 
-<p>I'm an avid musician, and I frequently find myself using the services offered by the International Music Score Library Project (IMSLP) / Petrucci Music Library (PML). One key element of the experience for me is waiting the dreaded 15 seconds before the PDF link is actually made accessible. One day, I found that the link is available in the page source immediately upon loading the page, which gave me the idea to automate the bypassing process. What I'm trying to create is a much easier way to fetch links to the sheet music I want to play, without needing to navigate the website manually.</p>
+<p>I'm an avid musician, and I frequently find myself using the services offered by the <a href = "https://imslp.org">International Music Score Library Project (IMSLP) / Petrucci Music Library (PML)</a>. One key element of the experience for me is waiting the dreaded 15 seconds before the PDF link is actually made accessible. One day, I found that the link is available in the page source immediately upon loading the page, which gave me the idea to automate the bypassing process. What I'm trying to create is a much easier way to fetch links to the sheet music I want to play, without needing to navigate the website manually.</p>
+
+<p><strong>I strongly encourage supporting IMSLP. Purchasing a membership as a monthly subscription will provide the funding to keep the project going, allowing greater public access to a large library of public-domain music scores.</strong></p>
